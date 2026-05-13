@@ -10,6 +10,7 @@ H1: Games with popular feature tags (for example Roguelike, Survival, Multiplaye
 H2: Most popular games have same tag combinations in common.  
 H3: Games with unpopular combinations of tags are less popular. 
 H4: Games with more reviews have more online players. 
+
 Initially i thought that i will have at least some simmilar tags or genres that likely will have more chances to become "successfull".
 # Methodology
 
