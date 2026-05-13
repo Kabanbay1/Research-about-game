@@ -5,6 +5,7 @@ My researche theme was "Factors of Success in Indie Games: A Data-Driven Analysi
 My goal was to find success factors of indie games if they exist.
 # Initial hypothesis
 I had 4 initial hypothesis:
+
 H1: Games with popular feature tags (for example Roguelike, Survival, Multiplayer) receive more positive reviews.  
 H2: Most popular games have same tag combinations in common.  
 H3: Games with unpopular combinations of tags are less popular. 
