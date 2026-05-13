@@ -35,4 +35,4 @@ To enable meaningful comparisons, games were divided into two groups based on th
 - Seaborn
 # Report
 Full report is available here:
-- [Open report](FPIS_final_variant.pdf)
+- [Open report](Report.pdf)
